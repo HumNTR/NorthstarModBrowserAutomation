@@ -1,0 +1,13 @@
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\bin\Debug\ModBrowserAutomation.exe.config
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\bin\Debug\ModBrowserAutomation.exe
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\bin\Debug\ModBrowserAutomation.pdb
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\bin\Debug\Octokit.dll
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\bin\Debug\Octokit.xml
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\obj\Debug\ModBrowserAutomation.csprojAssemblyReference.cache
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\obj\Debug\ModBrowserAutomation.Form1.resources
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\obj\Debug\ModBrowserAutomation.Properties.Resources.resources
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\obj\Debug\ModBrowserAutomation.csproj.GenerateResource.cache
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\obj\Debug\ModBrowserAutomation.csproj.CoreCompileInputs.cache
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\obj\Debug\ModBrowserAutomation.csproj.CopyComplete
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\obj\Debug\ModBrowserAutomation.exe
+C:\Users\HumN\source\repos\ModBrowserAutomation\ModBrowserAutomation\obj\Debug\ModBrowserAutomation.pdb
